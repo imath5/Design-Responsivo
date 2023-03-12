@@ -5,7 +5,7 @@ Utilizando o devTools é possivel verificar que quando diminuimos o tamanho da t
 
 ![image](https://user-images.githubusercontent.com/73304785/224518159-b2c3032f-094e-46eb-a61c-50fd5f7b0d67.png)
 
-Através da Imagem acima é possivel ver que de acordo com o tamanho da tela do disitivo, como é possível ver acima ( Tela de um Iphone XR) 
+Através da Imagem acima é possivel ver que de acordo com o tamanho da tela do dispositivo, como é possível ver no topo da imagem acima (Tela de um Iphone XR) as imagens se adaptaram ao tamanho do celular, ficando empilhado cada um dos conteúdos (nesse caso, imagens).
 
 # Layout do site
 <b><h2 align="center">Home</h2></b>
