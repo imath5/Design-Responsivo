@@ -27,6 +27,13 @@ Através da Imagem abaixo é possivel ver que de acordo com o tamanho da tela do
 ![image](https://user-images.githubusercontent.com/73304785/229551774-02d24311-fa28-451a-86a0-86a3b542d552.png)
 
 
+# Menu DropDown - Responsivo
+
+É permitido também acessar o menu DropDown através do menu hambúrguer, ao clicar, ira abrir o menu no canto superior direito
+
+![image](https://user-images.githubusercontent.com/73304785/229551972-4198089a-caea-4d2a-885c-c8a94b0649be.png)
+
+
 
 
 
