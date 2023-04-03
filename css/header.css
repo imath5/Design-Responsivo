@@ -1,3 +1,7 @@
+.submenu-m {
+  display: none;
+ }
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -6,7 +10,6 @@
   height: 50px;
   background-color: black;
   box-shadow: 0 0 10px black;
-  padding: 0 20px;
 }
 
 .logo {
@@ -25,6 +28,11 @@
   letter-spacing: normal;
 }
 
+.menu-m {
+  display: none;
+}
+
+        /*MENU*/
 .menu {
   display: flex;
 }
@@ -50,7 +58,7 @@
   display: block;
 }
 
-
+          /*SUBMENU*/
 .submenu {
   display: none;
   position: absolute;
@@ -60,7 +68,7 @@
   min-width: 110%;
 }
 
-.submenu li:hover {
+.submenu2 li:hover {
   background: #174fbe;
 }
 
@@ -73,10 +81,107 @@
   left: 100%;
 }
 
-
-@media (max-width: 800px) {
+/*MENU-MOBILE*/
+@media (max-width: 900px) {
   .menu {
     display: none;
+
   }
+
+ .menu-m  {
+    display: block;
+
+  }
+
+  .submenu-m {
+    display: none;
+  }
+
+  .submenu2-m {
+    display: none;
+  }
+
+
+   .menu-m > li a {
+    padding: 17px;  
+    background: #3276fb;            
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    display: block;
+    
+  
+  }
+ .menu-m > li a:hover {
+    background-color:#1d52ff;
+  }
+  
+  .menu-m > li:hover > .submenu-m,
+  .submenu-m > li:hover > .submenu-m,
+  .submenu-m >li:hover > .submenu2-m,
+  .submenu2-m >li:hover > .submenu2-m {
+    display: block;
+  }
+
+
+  .submenu2 li:hover {
+    background-color:#1d52ff;
+  }
+ 
+  .submenu-m li {
+    position: relative;
+  }
+
+.submenu-m {
+  display:  none;
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  background: #3276fb;
+
+} 
+
+.submenu2-m li {
+  position: relative;
 }
+
+.submenu2-m {
+  display:  none;
+  position: absolute;
+  top: 0;
+  right:100%;
+  background: #3276fb;
+
+}  
+
+/* 
+ 
+  
+  
+     
+  
+ 
+  
+  
+ 
+  
+  .submenu-m li:hover {
+    background: #174fbe;
+  }
+  
+  .submenu-m li {
+    position: relative;
+  }
+  
+  .submenu-m li .submenu-m {
+    top: 0;
+    right: 100%;
+  }*/
+ 
+  
+}
+
+
+
+
 
