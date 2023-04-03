@@ -33,6 +33,25 @@ Através da Imagem abaixo é possivel ver que de acordo com o tamanho da tela do
 
 ![image](https://user-images.githubusercontent.com/73304785/229551972-4198089a-caea-4d2a-885c-c8a94b0649be.png)
 
+# Tecnologias Utilizadas
+
+• HTML
+
+• CSS
+
+
+# Autor
+
+<b>Matheus de Souza Carvalho</b>
+
+
+Linkedin: 
+https://www.linkedin.com/in/matheusscarvalho/
+
+
+E-mail:
+matheusdocarvalho@gmail.com
+
 
 
 
