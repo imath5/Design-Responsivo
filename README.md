@@ -2,8 +2,9 @@
 
 Utilizando o devTools é possivel verificar que quando diminuimos o tamanho da tela ( para simular telas menores como a de um celular, tablets, entre outros dispositivos), algumas alterações são realizadas através do media query para que o usuário consiga visualizar todo o conteúdo independente do tamanho da tela do dispositivo em que ele esteja usando.
 
-Veja abaixo:
 <hr>
+Veja abaixo:
+
 
 # Layout do site
 <b><h2 align="center">Home (Ponto de vista de um usuário desktop)</h2></b>
